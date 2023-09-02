@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>hiii :3:3:3:3</h1>
-	<p>heyy haha</p>
-	<li>
-		<ul>a</ul>
-		<ul>b</ul>
-		<ul>c</ul>
-	</li>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
